@@ -1,5 +1,5 @@
 # rest_api
-rest api for getting github repositories
+rest api for getting github repositories as a recruitment task for Future Stars programme
 
 How to use it:
 
